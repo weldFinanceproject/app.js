@@ -40,7 +40,7 @@ Borrows a specified amount of an asset from the money market pool.
 javascript
 
 async function borrow(asset, amount, account);
-asset: The asset type (e.g., 'BTC', 'USDT').
+asset: The asset type ( 'BTC', 'USDT').
 amount: The amount to borrow.
 account: The Ethereum address from which the borrow will be initiated.
 Get Historical Interest Rates
