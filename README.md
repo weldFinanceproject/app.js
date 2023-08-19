@@ -1,4 +1,4 @@
-# app.js
+
 
 Weld Finance Contract Interface
 This module provides a Web3.js interface to interact with the Weld Finance Contract on Ethereum. Here's how to use it.
