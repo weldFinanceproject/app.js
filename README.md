@@ -55,6 +55,7 @@ Fetches the current interest rate for a given asset.
 
 javascript
 
+
 async function getCurrentInterestRate(asset);
 asset: The asset type for which you want to fetch the current rate.
 Sample Usage
