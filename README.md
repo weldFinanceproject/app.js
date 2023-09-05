@@ -8,6 +8,7 @@ Ensure you have the web3 library installed:
 
 
 
+
 npm install web3
 You should also have an Ethereum node endpoint (e.g., via Infura or any other service).
 
