@@ -12,8 +12,6 @@ You should also have an Ethereum node endpoint (e.g., via Infura or any other se
 
 Setup
 Import and configure the module:
-
-
 javascript
 
 const Web3 = require('web3');
